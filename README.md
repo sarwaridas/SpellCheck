@@ -1,5 +1,5 @@
 # SpellCheck
-This is a spellcheck algorithm implemented on a corrupted file of Jane Austen's "Sense and Sensibility"
+This is a NLP algorithm implemented on a corrupted file of Jane Austen's "Sense and Sensibility"
 
 I build from scratch a spelling corrector in Python. It includes:
 1. tokenization
